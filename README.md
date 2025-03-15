@@ -1,0 +1,1 @@
+# Scanner-Placa-QR-interfaz
